@@ -4,4 +4,4 @@ The ias_engine.s file is the core that simulares the IAS computer. Interface.s a
 
 Author: Daniel Scocco
 Email: danielscocco@gmail.com
-Blog: http://www.programmingblog.com
+Blog: http://www.programminglogic.com
